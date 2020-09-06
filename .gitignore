@@ -1,0 +1,7 @@
+*.pyc
+test.py
+*~
+__pycache__
+.DS_Store
+.idea
+logs/*
